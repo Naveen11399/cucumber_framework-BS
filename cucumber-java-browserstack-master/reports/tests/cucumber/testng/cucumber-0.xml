@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="1" skipped="0" total="1">
+    <suite duration-ms="29536" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="29536" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="BrowserStack Demo">
+                <test-method duration-ms="27976" finished-at="2024-01-25T12:12:14.308672400Z" name="BStack Sample Test - Add product to cart" started-at="2024-01-25T12:11:46.173726300Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>

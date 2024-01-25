@@ -1,0 +1,40 @@
+17:07:59.398 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+17:07:59.410 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:08:00.507 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Picco\Documents\cucumber-java-browserstack-master\browserstack.yml
+17:08:01.105 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:08:04.807 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - cucumber.api.cli.Main C:/Users/Picco/Documents/cucumber-java-browserstack-master/src/test/resources/features/test/StackDemo.feature --glue classpath: --plugin pretty --monochrome
+17:08:05.175 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber
+17:08:08.614 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is cucumber. We currently support frameworks testng, cucumber-testng & serenity
+17:08:09.294 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:08:29.286 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:08:33.528 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Picco\Documents\cucumber-java-browserstack-master\browserstack.yml
+17:08:34.281 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Picco\Documents\cucumber-java-browserstack-master\browserstack.yml
+17:08:34.464 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:08:34.679 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:08:34.937 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Picco\Documents\cucumber-java-browserstack-master\browserstack.yml
+17:08:35.321 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:08:39.223 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is cucumber. We currently support frameworks testng, cucumber-testng & serenity
+17:08:39.618 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is cucumber. We currently support frameworks testng, cucumber-testng & serenity
+17:08:40.235 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is cucumber. We currently support frameworks testng, cucumber-testng & serenity
+17:09:23.573 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c2fa31b61a38f32708f16128f4b90afb0c14c4d4
+17:09:23.573 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:41:14.111 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+17:41:14.114 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:41:14.483 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Picco\Documents\cucumber-java-browserstack-master\browserstack.yml
+17:41:14.568 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:41:15.317 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 64147 -protocol json -d C:\Users\Picco\Documents\cucumber-java-browserstack-master\test-output C:\Users\Picco\AppData\Local\Temp\testng-eclipse-1526922670\testng-customsuite.xml
+17:41:15.346 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber
+17:41:17.714 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is cucumber. We currently support frameworks testng, cucumber-testng & serenity
+17:41:19.136 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:41:31.415 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:41:37.662 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Picco\Documents\cucumber-java-browserstack-master\browserstack.yml
+17:41:37.692 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Picco\Documents\cucumber-java-browserstack-master\browserstack.yml
+17:41:37.751 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Picco\Documents\cucumber-java-browserstack-master\browserstack.yml
+17:41:37.895 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:41:37.962 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:41:38.025 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:41:41.870 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is cucumber. We currently support frameworks testng, cucumber-testng & serenity
+17:41:41.880 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is cucumber. We currently support frameworks testng, cucumber-testng & serenity
+17:41:43.357 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is cucumber. We currently support frameworks testng, cucumber-testng & serenity
+17:42:21.535 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/e9de19dfca670d5b30753a211b35a9c00801be57
+17:42:21.536 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
